@@ -3,7 +3,7 @@
 
 <!-- ===================== NAME TYPING ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Your+Name" alt="Name typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gokul" alt="Name typing"/>
 </h1>
 
 <!-- ===================== ROLE TYPING ===================== -->
