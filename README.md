@@ -3,20 +3,20 @@
 
 <!-- ===================== NAME TYPING ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gokul" alt="Name typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gokul+N" alt="Name typing"/>
 </h1>
 
 <!-- ===================== ROLE TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=18&duration=3000&pause=700&color=7CFC00&center=true&vCenter=true&width=600&lines=Backend+Developer;Cloud+%26+DevOps+Enthusiast;Open+to+Freelance+Work" alt="Role typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=18&duration=3000&pause=700&color=7CFC00&center=true&vCenter=true&width=600&lines=Backend+Developer;Automation+with+n8n;Open+to+Freelance+Work" alt="Role typing"/>
 </p>
 
 <!-- ===================== BADGES ROW ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gokul-Victus&label=Profile+Views&color=00FFD1&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Location-Your_City-0D0D0D?style=flat-square&logo=googlemaps&logoColor=00FFD1" alt="Location"/>
-  <img src="https://img.shields.io/badge/Work-Your_Company-7CFC00?style=flat-square&logo=github&logoColor=0D0D0D" alt="Work"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00FFD1?style=flat-square&logo=upwork&logoColor=0D0D0D" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-Chennai-0D0D0D?style=flat-square&logo=googlemaps&logoColor=00FFD1" alt="Location"/>
+  <img src="https://img.shields.io/badge/Work-Enrich_Money-7CFC00?style=flat-square&logo=github&logoColor=0D0D0D" alt="Work"/>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Freelance-00FFD1?style=flat-square&logo=upwork&logoColor=0D0D0D" alt="Status"/>
 </p>
 
 <!-- ===================== TROPHIES ===================== -->
@@ -30,16 +30,16 @@
 
 ```
 > whoami
-Your Name — Your Tagline (e.g. Backend & Cloud Infrastructure)
+Gokul N — Backend Developer
 
 > current_status
-What you're studying / doing right now
+Full-time Backend Developer @ Enrich Money
 
 > work
-Your current job / role @ Company
+Full-time Backend Developer @ Enrich Money
 
 > focus
-Skill • Skill • Skill • Skill
+Backend Development • Automation (n8n) • APIs • Databases
 
 > availability
 Open to freelance projects & collaborations
@@ -49,9 +49,9 @@ Open to freelance projects & collaborations
 
 ## 🎯 Now
 
-- Thing you're currently building
-- Thing you're currently learning
-- Thing you're currently improving
+- Building scalable backend modules and service integrations
+- Creating n8n automation workflows
+- Building AI agents
 
 ---
 
@@ -59,33 +59,45 @@ Open to freelance projects & collaborations
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Frameworks & Runtimes
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+### Messaging & Streaming
+<p>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+### Automation
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -122,7 +134,7 @@ Open to freelance projects & collaborations
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-your_email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nagarajgokulece@gmail.com"><img src="https://img.shields.io/badge/Email-nagarajgokulece@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-@your_handle-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://github.com/Gokul-Victus"><img src="https://img.shields.io/badge/GitHub-Gokul-Victus-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
