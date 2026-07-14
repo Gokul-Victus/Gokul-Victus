@@ -8,7 +8,7 @@
 
 <!-- ===================== ROLE TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=18&duration=3000&pause=700&color=7CFC00&center=true&vCenter=true&width=600&lines=Backend+Developer;React+Developer;Automation+with+n8n;Open+to+Freelance+Work" alt="Role typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=18&duration=3000&pause=700&color=7CFC00&center=true&vCenter=true&width=600&lines=Backend+Developer;React+Developer;Workflow+Automation;Open+to+Freelance+Work" alt="Role typing"/>
 </p>
 
 <!-- ===================== BADGES ROW ===================== -->
